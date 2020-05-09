@@ -1,0 +1,18 @@
+﻿  Mainloop.cpp
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(11): warning C4930: 'Shader shader(void)': prototyped function not called (was a variable definition intended?)
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(171): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(172): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(185): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(198): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(229): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(240): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(249): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(261): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(269): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(271): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(302): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  obj_loader.cpp
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\obj_loader.cpp(378): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Lab1.vcxproj -> C:\Users\kella\OneDrive\Documents\CourseworkProgramming\Lab1\Debug\Lab1.exe
